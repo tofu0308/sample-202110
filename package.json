@@ -1,0 +1,16 @@
+{
+  "name": "sample-202110",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tofu0308/sample-202110.git",
+  "author": "takeshi.fujii <isisaka3000@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.26.1",
+    "eslint-plugin-react-hooks": "^1.7.0"
+  }
+}
